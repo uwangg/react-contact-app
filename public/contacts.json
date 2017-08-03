@@ -1,0 +1,26 @@
+[
+    {
+        "email": "cassiozen@gmail.com",
+        "name": "Casio Zen"
+    },
+    {
+        "email": "gaearon@somwhere.com",
+        "name": "Dan Abramov"
+    },
+    {
+        "email": "floydophone@somewhere.com",
+        "name": "Pete Hunt"
+    },
+    {
+        "email": "zpao@somewhere.com",
+        "name": "Paul 0'Shannessy"
+    },
+    {
+        "email": "rpflorence@somewhere.com",
+        "name": "Ryan Florence"
+    },
+    {
+        "email": "sebmarkbage@here.com",
+        "name": "Sebastin Markbage"
+    }
+]
